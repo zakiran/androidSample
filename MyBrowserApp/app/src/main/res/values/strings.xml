@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ブラウザアプリ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_back">Back</string>
+    <string name="browse_button">Browse</string>
+</resources>

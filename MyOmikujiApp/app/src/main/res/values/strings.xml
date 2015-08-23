@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">おみくじアプリ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="omikuji_label">あなたの運勢は...</string>
+    <string name="score_label">___</string>
+    <string name="button_label">おみくじを引く</string>
+</resources>
